@@ -1,0 +1,12 @@
+C:\Projects\OnlineVotingSystem\DapperDemo\bin\Debug\net6.0\DapperDemo.deps.json
+C:\Projects\OnlineVotingSystem\DapperDemo\bin\Debug\net6.0\DapperDemo.dll
+C:\Projects\OnlineVotingSystem\DapperDemo\bin\Debug\net6.0\DapperDemo.pdb
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\DapperDemo.csproj.AssemblyReference.cache
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\DapperDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\DapperDemo.AssemblyInfoInputs.cache
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\DapperDemo.AssemblyInfo.cs
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\DapperDemo.dll
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\refint\DapperDemo.dll
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\DapperDemo.pdb
+C:\Projects\OnlineVotingSystem\DapperDemo\obj\Debug\net6.0\ref\DapperDemo.dll
